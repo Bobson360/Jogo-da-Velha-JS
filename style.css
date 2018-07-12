@@ -1,0 +1,112 @@
+#AA {
+	
+	width: 195px;
+	height: 195px;
+	position: absolute;
+	margin: 1px;
+	padding: 0px;
+	margin-top: 1px;
+	text-align: center;
+}
+
+#AB {
+	width: 191px;
+	height: 195px;
+	position: absolute;
+	margin: 205px;
+	padding: 0px;
+	margin-top: 1px
+}
+
+#AC {
+	width: 196px;
+	height: 195px;
+	position: absolute;
+	margin: 405px;
+	padding: 0px;
+	margin-top: 1px
+}
+
+#BA {
+	width: 195px;
+	height: 191px;
+	position: absolute;
+	margin: 1px;
+	padding: 0px;
+	margin-top: 205px
+	
+}
+
+#BB {
+	width: 191px;
+	height: 191px;
+	position: absolute;
+	margin: 205px;
+	padding: 0px;
+	margin-top: 205px
+}
+
+#BC {
+	width: 196px;
+	height: 191px;
+	position: absolute;
+	margin: 405px;
+	padding: 0px;
+	margin-top: 205px
+
+}
+
+#CA {
+	width: 195px;
+	height: 196px;
+	position: absolute;
+	margin: 1px;
+	padding: 0px;
+	margin-top: 405px
+}
+
+#CB {
+	width: 191px;
+	height: 196px;
+	position: absolute;
+	margin: 205px;
+	padding: 0px;
+	margin-top: 405px
+}
+
+#CC {
+	width: 196px;
+	height: 196px;
+	position: absolute;
+	margin: 405px;
+	padding: 0px;
+	margin-top: 405px
+}
+
+#AA p{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+}
+
+p{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+}
+
+.frame-color{
+	background: white;
+}
+
+.frame-color:hover{
+	background: #DCDCDC;
+}
+
